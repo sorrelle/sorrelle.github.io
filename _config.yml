@@ -58,8 +58,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Sorrelle"
+  avatar : "/assets/images/favicon.jpg"
   bio    : "Let's take our Style and Home to another level."
   links:
     - label: "Pinterest"
@@ -68,9 +68,6 @@ author:
     - label: "TikTok"
       icon: "fab fa-fw fa-tiktok"
       url: "https://tiktok.com/@sorrelle.style"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://sorrelle.github.io"
 footer:
   links:
     - label: "Pinterest"
