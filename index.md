@@ -4,16 +4,16 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author_profile: true
-title: "Welcome"
+title: "<span style='color:#5C3F2E;'>SORRELLE</span>"
 permalink: /
 header:
-  overlay_color: "#000"
+  overlay_color: "#000
   overlay_filter: "0.5"
-  overlay_image: https://via.placeholder.com/1200x400
+  overlay_image: /assets/images/head page no writing.png
   actions:
     - label: "Read More"
-      url: "/about/"
-excerpt: "Your site's welcome message goes here."
+      url: "/categories/"
+excerpt: "Welcome to my Fashion & Home Decor Blog"
 intro:
   - excerpt: "This is a short intro section."
 feature_row:
