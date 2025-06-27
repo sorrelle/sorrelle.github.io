@@ -8,10 +8,10 @@ title: "<span style='color:#5C3F2E;'>SORRELLE</span>"
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_image: "/assets/images/head page no writing.png"
   actions:
-    - label: "Read More"
+    - label: "Categories"
       url: "/categories/"
 excerpt: "Welcome to my Fashion & Home Decor Blog"
 intro:
