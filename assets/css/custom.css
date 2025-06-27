@@ -1,8 +1,11 @@
-.categories-grid {
-  display: flex;
-  flex-direction: column; /* stack vertically */
-  gap: 12px;
-  margin-top: 20px;
+.category-list {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 30px;
+}
+
+.category-list li {
+  margin-bottom: 12px;
 }
 
 .category-button {
@@ -12,12 +15,5 @@
   border-radius: 8px;
   text-decoration: none;
   font-weight: 600;
-  transition: background-color 0.3s ease;
-  display: inline-block; /* so it stays button-like */
-  width: fit-content;    /* don't stretch to full line */
-}
-
-.category-button:hover {
-  background-color: #7a5440;
-}
-
+  display: inline-block;
+  transition: background-co
