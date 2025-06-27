@@ -1,7 +1,6 @@
-/* Category Buttons Grid Styling */
 .categories-grid {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column; /* stack vertically */
   gap: 12px;
   margin-top: 20px;
 }
@@ -14,6 +13,8 @@
   text-decoration: none;
   font-weight: 600;
   transition: background-color 0.3s ease;
+  display: inline-block; /* so it stays button-like */
+  width: fit-content;    /* don't stretch to full line */
 }
 
 .category-button:hover {
