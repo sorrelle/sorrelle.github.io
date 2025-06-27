@@ -9,7 +9,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/your-background.jpg
+  overlay_image: https://via.placeholder.com/1200x400
   actions:
     - label: "Read More"
       url: "/about/"
@@ -24,7 +24,7 @@ feature_row:
     url: "/page1/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/sample2.jpg
+  - image_path: https://via.placeholder.com/300x200
     alt: "Alt text for image 2"
     title: "Feature 2"
     excerpt: "Description for feature 2."
