@@ -61,7 +61,7 @@ author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Let's take our Style and Home to another level."
-    links:
+  links:
     - label: "Pinterest"
       icon: "fab fa-fw fa-pinterest"
       url: "https://www.pinterest.com/sorrellestyle/"
