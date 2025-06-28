@@ -5,23 +5,30 @@ permalink: /categories/
 author_profile: false
 ---
 
-<h2>Fashion</h2>
+<div class="categories-sections">
 
-<ul class="category-list">
-  <li><a class="category-button" href="/categories/fashion-summer">Summer</a></li>
-  <li><a class="category-button" href="/categories/fashion-winter">Winter</a></li>
-  <li><a class="category-button" href="/categories/fashion-fall">Fall</a></li>
-  <li><a class="category-button" href="/categories/fashion-spring">Spring</a></li>
-  <li><a class="category-button" href="/categories/fashion-vacation">Vacation</a></li>
-  <li><a class="category-button" href="/categories/fashion-holidays">Holidays</a></li>
-</ul>
+  <div class="category-column">
+    <h2>Fashion</h2>
+    <ul class="category-list">
+      <li><a class="category-button" href="/categories/fashion-summer">Summer</a></li>
+      <li><a class="category-button" href="/categories/fashion-winter">Winter</a></li>
+      <li><a class="category-button" href="/categories/fashion-fall">Fall</a></li>
+      <li><a class="category-button" href="/categories/fashion-spring">Spring</a></li>
+      <li><a class="category-button" href="/categories/fashion-vacation">Vacation</a></li>
+      <li><a class="category-button" href="/categories/fashion-holidays">Holidays</a></li>
+    </ul>
+  </div>
 
-<h2>Home Decor & Furniture</h2>
+  <div class="category-column">
+    <h2>Home Decor & Furniture</h2>
+    <ul class="category-list">
+      <li><a class="category-button" href="/categories/home-living-room">Living Room</a></li>
+      <li><a class="category-button" href="/categories/home-bathroom">Bathroom</a></li>
+      <li><a class="category-button" href="/categories/home-bedroom">Bedroom</a></li>
+      <li><a class="category-button" href="/categories/home-office">Office</a></li>
+      <li><a class="category-button" href="/categories/home-kitchen">Kitchen</a></li>
+    </ul>
+  </div>
 
-<ul class="category-list">
-  <li><a class="category-button" href="/categories/home-living-room">Living Room</a></li>
-  <li><a class="category-button" href="/categories/home-bathroom">Bathroom</a></li>
-  <li><a class="category-button" href="/categories/home-bedroom">Bedroom</a></li>
-  <li><a class="category-button" href="/categories/home-office">Office</a></li>
-  <li><a class="category-button" href="/categories/home-kitchen">Kitchen</a></li>
-</ul>
+</div>
+
