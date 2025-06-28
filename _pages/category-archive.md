@@ -14,8 +14,6 @@ author_profile: false
       <li><a class="category-button" href="/categories/fashion-winter">Winter</a></li>
       <li><a class="category-button" href="/categories/fashion-fall">Fall</a></li>
       <li><a class="category-button" href="/categories/fashion-spring">Spring</a></li>
-      <li><a class="category-button" href="/categories/fashion-vacation">Vacation</a></li>
-      <li><a class="category-button" href="/categories/fashion-holidays">Holidays</a></li>
     </ul>
   </div>
 
